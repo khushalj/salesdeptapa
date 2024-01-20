@@ -1,7 +1,7 @@
 import streamlit as st
 
 def main():
-    st.title("Party Information App")
+    st.title("A+A Sales : Pilot")
 
     # Menu for Party Name
     party_name = st.text_input("Party Name", "")
